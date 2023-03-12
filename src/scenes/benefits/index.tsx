@@ -111,9 +111,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
                     visible: { opacity: 1, x: 0 },
                   }}
                 >
-                  <HText>
-                    MİLYONLARCA MUTLU ÜYE  OLUYOR{" "}
-                  </HText>
+                  <HText>MİLYONLARCA MUTLU ÜYE OLUYOR </HText>
                 </motion.div>
               </div>
             </div>
